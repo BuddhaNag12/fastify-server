@@ -1,0 +1,7 @@
+.env
+node_modules
+yarn.lock
+yarn-error.json
+yarn-error.log
+.vercel
+now.json
